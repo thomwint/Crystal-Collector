@@ -2,8 +2,6 @@
 
 Deployed page: https://thomwint.github.io/Crystal-Collector/
 
-The player will have to guess the answer, just like in Word Guess. This time, though, the player will guess with numbers instead of letters. 
-
 Here's how the app works:
 
 There will be four crystals displayed as buttons on the page.
